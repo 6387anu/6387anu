@@ -15,7 +15,7 @@
 - Machine Learning & AI-based Projects  
 
 🧩 Projects:
-- 🏠 1. **TravelWithHome**
+- 🏠 1. **WanderLust**
 - 🔐 2. **Detection of SQL Injection Queries Using Machine Learning**
 
 🌱 What I’m Working On:
