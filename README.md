@@ -15,29 +15,11 @@
 
 ## About
 
-I'm a Computer Science Engineering student who learns by shipping. My work spans full-stack web apps, machine learning with explainability, and security.
-
-| | |
-|---|---|
-| **Studying** | B.Tech, Computer Science Engineering |
-| **Building** | Full-stack apps and ML-based security tools |
-| **Strengthening** | Java, DSA, React, Node.js, Machine Learning |
-| **Looking for** | Software development opportunities |
+<img src="./about.svg" alt="About Anurag Yadav" width="100%">
 
 ## Tech Stack
 
-<div align="center">
-
-**Languages**<br>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark" alt="Languages"><br><br>
-**Web & Databases**<br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind,bootstrap,vite&theme=dark" alt="Web stack"><br><br>
-**Tools**<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools"><br><br>
-**Machine Learning**<br>
-`Python` `Scikit-learn` `XGBoost` `Pandas` `NumPy` `TF-IDF` `SHAP` `Matplotlib` `Streamlit` `Flask`
-
-</div>
+<img src="./techstack.svg" alt="Tech stack" width="100%">
 
 ## Featured Projects
 
@@ -53,13 +35,6 @@ I'm a Computer Science Engineering student who learns by shipping. My work spans
 </td>
 </tr>
 </table>
-
-## Learning Path
-
-```mermaid
-flowchart LR
-    A[DSA & Problem Solving] --> B[Java Development] --> C[Full-Stack Development] --> D[Machine Learning] --> E[Cybersecurity]
-```
 
 ## GitHub Stats
 
