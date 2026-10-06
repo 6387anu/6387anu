@@ -1,178 +1,113 @@
 <div align="center">
 
-# 👋 Hi, I'm Anurag Yadav
+<img src="./card.svg" alt="Anurag Yadav – B.Tech CSE Student, Full-Stack Developer, ML & Cybersecurity Enthusiast" width="100%">
 
-### `B.Tech CSE Student` · `Full-Stack Developer` · `ML & Cybersecurity Enthusiast`
+<br>
 
-<p>
-  <a href="https://github.com/6387anu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/anurag-yadav-13106929a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://port-folio-roan-delta.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="mailto:anurag.yadv1905@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="80%"/>
+[![GitHub](https://img.shields.io/badge/GitHub-6387anu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/6387anu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anurag%20Yadav-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-yadav-13106929a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C5CFF?style=flat-square&logo=googlechrome&logoColor=white)](https://port-folio-roan-delta.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-anurag.yadv1905@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anurag.yadv1905@gmail.com)
 
 </div>
-
-## 🧑‍💻 About Me
-
-I'm a **Computer Science Engineering student** focused on building practical software projects and improving my problem-solving skills.
-
-My main areas of interest are:
-
-- 🌐 Full-Stack Web Development
-- 🤖 Machine Learning & Explainable AI
-- 🔐 Cybersecurity
-- 🧠 Data Structures & Algorithms
-- 🚀 Building and deploying real-world projects
-
-Currently, I'm strengthening my **Java, DSA, React, Node.js and Machine Learning** skills while working on personal projects.
 
 ---
 
-## ⚡ Tech Stack
+## About
+
+I'm a Computer Science Engineering student who learns by shipping. My work spans full-stack web apps, machine learning with explainability, and security.
+
+| | |
+|---|---|
+| **Studying** | B.Tech, Computer Science Engineering |
+| **Building** | Full-stack apps and ML-based security tools |
+| **Strengthening** | Java, DSA, React, Node.js, Machine Learning |
+| **Looking for** | Software development opportunities |
+
+## Tech Stack
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind,bootstrap,vite" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-</div>
-
-### 🤖 Machine Learning
-
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark" alt="Languages"><br><br>
+**Web & Databases**<br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind,bootstrap,vite&theme=dark" alt="Web stack"><br><br>
+**Tools**<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools"><br><br>
+**Machine Learning**<br>
 `Python` `Scikit-learn` `XGBoost` `Pandas` `NumPy` `TF-IDF` `SHAP` `Matplotlib` `Streamlit` `Flask`
 
----
-
-## 🚀 Featured Projects
-
-### 🏠 WanderLust
-
-An Airbnb-inspired full-stack web application with listing management, database integration, image handling and map functionality.
-
-**Tech:** `Node.js` `Express` `MongoDB` `Mongoose` `EJS` `JavaScript` `Cloudinary` `Mapbox`
-
-[**View Repository →**](https://github.com/6387anu/WanderLust) · [**Live Demo →**](https://wanderlust-fmt4.onrender.com/listings)
-
----
-
-### 🔐 SQL Injection Detection Using Machine Learning
-
-A machine-learning-based SQL injection detection system using **character-level TF-IDF and XGBoost**, with **SHAP explainability** for understanding model predictions.
-
-**Tech:** `Python` `XGBoost` `TF-IDF` `SHAP` `Scikit-learn` `Streamlit`
-
-[**View Repository →**](https://github.com/6387anu/SQL-Injection-Detection-Using-Machine-Learning) · [**Live Demo →**](https://sql-detection.streamlit.app/)
-
----
-
-### 🗺️ Tourist Itinerary Planner
-
-An interactive web project for planning tourist itineraries using map-based functionality.
-
-**Tech:** `JavaScript` `Leaflet` `Mapbox` `HTML` `CSS`
-
----
-
-### 🤖 SoftCompiler
-
-An AI-oriented project built around a FastAPI backend and Gemini API integration for automated processing and orchestration.
-
-**Tech:** `Python` `FastAPI` `Google Gemini API`
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=6387anu&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7C5CFF&icon_color=22D3EE&text_color=FFFFFF" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6387anu&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7C5CFF&text_color=FFFFFF" height="170"/>
-
 </div>
 
-<br>
+## Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://streak-stats.demolab.com?user=6387anu&theme=tokyonight&hide_border=true&background=0D1117&ring=7C5CFF&fire=22D3EE&currStreakLabel=FFFFFF" width="70%"/>
+### WanderLust
+An Airbnb-inspired full-stack app with listing management, image handling and map features.
 
-</div>
+`Node.js` `Express` `MongoDB` `EJS` `Cloudinary` `Mapbox`
 
----
+[Repository](https://github.com/6387anu/WanderLust) · [Live demo](https://wanderlust-fmt4.onrender.com/listings)
 
-## 🧩 What I'm Working On
+</td>
+<td width="50%" valign="top">
 
-```text
-DSA & Problem Solving
-        ↓
-Java Development
-        ↓
-Full-Stack Development
-        ↓
-Machine Learning
-        ↓
-Cybersecurity
+### SQL Injection Detection
+Detects SQL injection with character-level TF-IDF and XGBoost. SHAP explains each prediction.
+
+`Python` `XGBoost` `SHAP` `Scikit-learn` `Streamlit`
+
+[Repository](https://github.com/6387anu/SQL-Injection-Detection-Using-Machine-Learning) · [Live demo](https://sql-detection.streamlit.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Tourist Itinerary Planner
+An interactive, map-based web project for planning tourist itineraries.
+
+`JavaScript` `Leaflet` `Mapbox` `HTML` `CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### SoftCompiler
+An AI-oriented project with a FastAPI backend and Gemini API integration for automated processing.
+
+`Python` `FastAPI` `Gemini API`
+
+</td>
+</tr>
+</table>
+
+## Learning Path
+
+```mermaid
+flowchart LR
+    A[DSA & Problem Solving] --> B[Java Development] --> C[Full-Stack Development] --> D[Machine Learning] --> E[Cybersecurity]
 ```
 
----
-
-## 🎯 Current Focus
-
-- 🧠 Improving DSA and problem-solving skills
-- ☕ Strengthening Java
-- ⚛️ Building better React applications
-- 🌐 Developing full-stack projects
-- 🤖 Applying ML to practical problems
-- 🔐 Exploring cybersecurity and AI security
-- 💼 Preparing for software development opportunities
-
----
-
-## 🤝 Let's Connect
+## GitHub Stats
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/anurag-yadav-13106929a/">
-<img src="https://img.shields.io/badge/LinkedIn-Anurag%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=6387anu&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7C5CFF&icon_color=22D3EE&text_color=FFFFFF" alt="GitHub stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6387anu&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7C5CFF&text_color=FFFFFF" alt="Top languages">
 
-<a href="https://port-folio-roan-delta.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:anurag.yadv1905@gmail.com">
-<img src="https://img.shields.io/badge/Email-anurag.yadv1905%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=6387anu&theme=tokyonight&hide_border=true&background=0D1117&ring=7C5CFF&fire=22D3EE&currStreakLabel=FFFFFF" alt="GitHub streak">
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### `Build • Learn • Improve`
+**Build · Learn · Improve**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2D1B69,100:0D1117&height=100&section=footer" width="100%" alt="">
 
 </div>
