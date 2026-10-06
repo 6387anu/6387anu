@@ -1,218 +1,156 @@
-<div align="center">
-
 # 👋 Hi, I'm Anurag Yadav
 
-### 💻 Software Developer • Full-Stack Developer • ML Enthusiast
+### 💻 B.Tech CSE Student | Full-Stack Developer | ML & Cybersecurity Enthusiast
 
-<p>
-  <a href="https://github.com/6387anu">
-    <img src="https://img.shields.io/badge/GitHub-6387anu-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/anurag-yadav-13106929a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Anurag%20Yadav-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:anurag.yadv1905@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+I'm a Computer Science Engineering student passionate about building **web applications, machine learning solutions, and cybersecurity-focused projects**.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=header" width="100%"/>
-
-</div>
-
-## 👨‍💻 About Me
-
-I'm a **B.Tech Computer Science student** passionate about building practical software solutions.
-
-My primary interests are **Full-Stack Development, Machine Learning, Cybersecurity, and Data Structures & Algorithms**.
-
-I enjoy turning ideas into working applications and continuously improving my problem-solving and development skills.
-
-- 🎓 B.Tech — Computer Science & Engineering
-- 💻 Focused on Full-Stack Development
-- 🤖 Exploring Machine Learning & AI
-- 🔐 Interested in Cybersecurity
-- 🧩 Practicing Java & Data Structures
-- 🚀 Building real-world projects
+I enjoy turning ideas into practical projects and continuously improving my skills in software development, problem solving, and machine learning.
 
 ---
 
-## ⚡ Tech Stack
+## 🚀 About Me
 
-### Languages
+- 🎓 B.Tech Computer Science Engineering student
+- 💻 Interested in **Full-Stack Web Development**
+- 🤖 Exploring **Machine Learning & Explainable AI**
+- 🔐 Interested in **Cybersecurity & Threat Detection**
+- 🧩 Practicing **Data Structures & Algorithms**
+- 🌱 Currently improving my skills in **Java, React, Node.js, and Machine Learning**
+- 🎯 Looking for opportunities to learn, build, and contribute to real-world projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
-### Frontend
+### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,bootstrap,tailwind,vite" />
 </p>
 
-### Backend & Database
+### 🤖 Machine Learning & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### Machine Learning & Data
+- Scikit-learn
+- XGBoost
+- Pandas
+- NumPy
+- SHAP
+- TF-IDF
+- Matplotlib
+- Streamlit
+- Flask
+
+### 🧰 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**Libraries & Tools:** NumPy • Pandas • Scikit-learn • XGBoost • SHAP • Flask • Streamlit
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
+### 🏠 WanderLust — Full-Stack Web Application
 
-<td width="50%" valign="top">
+An Airbnb-inspired web application built using the MERN/Node ecosystem.
 
-### 🛡️ Malicious URL Detection
+**Tech:** HTML, CSS, JavaScript, Node.js, Express, MongoDB, Mongoose, EJS, Cloudinary, Mapbox
 
-A machine-learning based system for detecting malicious URLs using **TF-IDF, handcrafted URL features and classification models**.
+🔗 [GitHub Repository](https://github.com/6387anu/WanderLust)
 
-**Focus:** Machine Learning • Cybersecurity • Explainable AI
+🌐 [Live Demo](https://wanderlust-fmt4.onrender.com/listings)
 
-**Technologies**
+---
 
-`Python` `TF-IDF` `XGBoost` `Scikit-learn` `SHAP`
+### 🔐 SQL Injection Detection Using Machine Learning
 
-</td>
+A machine-learning-based application for detecting SQL Injection attempts using **character-level TF-IDF and XGBoost**.
 
-<td width="50%" valign="top">
+The project also integrates **SHAP Explainable AI** to identify the character n-grams contributing to model predictions.
 
-### 🔐 SQL Injection Detection
+**Tech:** Python, XGBoost, TF-IDF, SHAP, Scikit-learn, Streamlit
 
-A machine-learning approach for detecting SQL injection queries using **character-level TF-IDF features and XGBoost**.
+🔗 [GitHub Repository](https://github.com/6387anu/SQL-Injection-Detection-Using-Machine-Learning)
 
-**Focus:** Cybersecurity • Machine Learning
+🌐 [Live Demo](https://sql-detection.streamlit.app/)
 
-**Technologies**
+---
 
-`Python` `TF-IDF` `XGBoost` `SHAP` `Flask`
+### 🗺️ Tourist Itinerary Planner
 
-</td>
+A web-based project focused on planning tourist itineraries with interactive map functionality.
 
-</tr>
+**Tech:** JavaScript, Leaflet/Mapbox, HTML, CSS
 
-<tr>
+---
 
-<td width="50%" valign="top">
+### 🤖 SoftCompiler
 
-### 🏠 WanderLust
+An AI-oriented software project exploring automated processing and orchestration using a FastAPI-based backend and Gemini API integration.
 
-A full-stack Airbnb-style web application for discovering and managing property listings.
-
-**Focus:** Full-Stack Web Development
-
-**Technologies**
-
-`JavaScript` `Node.js` `Express` `MongoDB` `Mongoose` `EJS`
-
-<br>
-
-<a href="https://github.com/6387anu/WanderLust">🔗 View Repository</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🗺️ TravelGuru
-
-A travel-planning application that helps users discover destinations in India and plan routes to their chosen destination.
-
-**Focus:** Web Development • Maps • Travel
-
-**Technologies**
-
-`JavaScript` `HTML` `CSS` `Maps` `Routing`
-
-<br>
-
-<a href="https://github.com/6387anu/Travelguru">🔗 View Repository</a>
-
-</td>
-
-</tr>
-</table>
+**Tech:** Python, FastAPI, Google Gemini API
 
 ---
 
 ## 📚 Currently Learning
 
 ```text
-Java & Data Structures
+Data Structures & Algorithms
         ↓
-Advanced Problem Solving
+Java & Problem Solving
         ↓
-Full-Stack Development
+React & Full-Stack Development
         ↓
 Machine Learning
         ↓
-Backend & System Design
+Cybersecurity & AI Security
 ```
 
 ---
 
-## 📊 GitHub Activity
+## 🎯 My Goals
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=6387anu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6387anu&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
+- 🚀 Become a strong **Software Developer**
+- 🧠 Improve problem-solving and DSA skills
+- 🌐 Build scalable full-stack applications
+- 🤖 Develop practical ML applications
+- 🔐 Explore Machine Learning for Cybersecurity
+- 💼 Gain real-world internship and development experience
 
 ---
 
-## 🔥 Contribution Activity
+## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=6387anu&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=6387anu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6387anu&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-<div align="center">
+<p>
+  <a href="https://github.com/6387anu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/anurag-yadav-13106929a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
+---
 
-<a href="mailto:anurag.yadv1905@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+### 💡 "Build. Learn. Improve. Repeat."
 
-<a href="https://github.com/6387anu">
-<img src="https://img.shields.io/badge/GitHub-6387anu-181717?style=for-the-badge&logo=github" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 💡 Build. Learn. Improve. Repeat.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
-
-</div>
+Thanks for visiting my profile! ⭐
