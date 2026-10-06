@@ -43,43 +43,13 @@ I'm a Computer Science Engineering student who learns by shipping. My work spans
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### WanderLust
-An Airbnb-inspired full-stack app with listing management, image handling and map features.
-
-`Node.js` `Express` `MongoDB` `EJS` `Cloudinary` `Mapbox`
-
-[Repository](https://github.com/6387anu/WanderLust) · [Live demo](https://wanderlust-fmt4.onrender.com/listings)
-
+<td width="50%" align="center">
+<a href="https://github.com/6387anu/WanderLust"><img src="./project-wanderlust.svg" alt="WanderLust" width="100%"></a><br>
+<a href="https://github.com/6387anu/WanderLust">Repository</a> · <a href="https://wanderlust-fmt4.onrender.com/listings">Live demo</a>
 </td>
-<td width="50%" valign="top">
-
-### SQL Injection Detection
-Detects SQL injection with character-level TF-IDF and XGBoost. SHAP explains each prediction.
-
-`Python` `XGBoost` `SHAP` `Scikit-learn` `Streamlit`
-
-[Repository](https://github.com/6387anu/SQL-Injection-Detection-Using-Machine-Learning) · [Live demo](https://sql-detection.streamlit.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Tourist Itinerary Planner
-An interactive, map-based web project for planning tourist itineraries.
-
-`JavaScript` `Leaflet` `Mapbox` `HTML` `CSS`
-
-</td>
-<td width="50%" valign="top">
-
-### SoftCompiler
-An AI-oriented project with a FastAPI backend and Gemini API integration for automated processing.
-
-`Python` `FastAPI` `Gemini API`
-
+<td width="50%" align="center">
+<a href="https://github.com/6387anu/SQL-Injection-Detection-Using-Machine-Learning"><img src="./project-sql-injection.svg" alt="SQL Injection Detection" width="100%"></a><br>
+<a href="https://github.com/6387anu/SQL-Injection-Detection-Using-Machine-Learning">Repository</a> · <a href="https://sql-detection.streamlit.app/">Live demo</a>
 </td>
 </tr>
 </table>
