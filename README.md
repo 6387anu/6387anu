@@ -15,7 +15,7 @@
 
 ## About
 
-<img src="./about-pro.svg" alt="About Anurag Yadav" width="100%">
+<img src="./about.svg" alt="About Anurag Yadav" width="100%">
 
 ## Tech Stack
 
